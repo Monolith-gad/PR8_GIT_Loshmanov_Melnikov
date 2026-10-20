@@ -16,5 +16,10 @@ namespace PR8_GIT_Loshmanov_Melnikov
         {
             InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
